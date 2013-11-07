@@ -1,0 +1,4 @@
+sqd
+===
+
+Scalable Queue Daemon
